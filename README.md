@@ -1,3 +1,4 @@
+REMOTE
 # wcs_conflits
 wsc project
 
